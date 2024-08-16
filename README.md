@@ -4,7 +4,7 @@ fmt.Println("Olá e seja muito bem-vindo ao meu GitHub!😁")
 
 ## Sobre Mim
 
-Olá! Eu sou **João Inocêncio**, desenvolvedor pleno atualmente trabalhando na Casa do Lojista. Sou apaixonado por tecnologia e estou sempre em busca de crescimento profissional.
+Olá! Eu sou **João Inocêncio** 🤙
 
 ## Experiência Profissional
 
@@ -20,11 +20,6 @@ Meu objetivo é me tornar um **Engenheiro de Software**. Para isso, estou consta
 - **Interesses Atuais:** 
   - Estudo intenso de **Golang**
   - Arquitetura de Software
-
-## Formação Acadêmica
-
-- **Graduação:** Análise e Desenvolvimento de Sistemas - **Cruzeiro do Sul**
-- **Curso Técnico:** Desenvolvimento - **ETEC de Guaianazes**
 
 ## Hobbies
 
