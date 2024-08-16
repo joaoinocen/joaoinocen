@@ -9,8 +9,9 @@ Olá! Eu sou **João Inocêncio**, desenvolvedor pleno atualmente trabalhando na
 ## Experiência Profissional
 
 - **Cargo Atual:** Desenvolvedor Pleno na **Casa do Lojista**
-- **Linguagens de Programação:** 
-  - [![My Skills](https://skillicons.dev/icons?i=go,cs)](https://skillicons.dev)
+- **Back-end:** 
+
+  [![My Skills](https://skillicons.dev/icons?i=go,cs)](https://skillicons.dev)
 
 ## Objetivo Profissional
 
