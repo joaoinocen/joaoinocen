@@ -4,7 +4,7 @@ fmt.Println("Olá e seja muito bem-vindo ao meu GitHub!😁")
 
 ## Sobre Mim
 
-Olá! Eu sou **João Inocêncio** 🤙
+Olá! Eu sou o **João Inocêncio** 🤙
 
 ## Experiência Profissional
 
