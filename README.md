@@ -8,7 +8,7 @@ Olá! Eu sou o **João Inocêncio** 🤙
 
 ## Experiência Profissional
 
-- **Cargo Atual:** Desenvolvedor Pleno na **Casa do Lojista**
+- **Cargo Atual:** Software Developer **Mercado Livre**
 - **Back-end:** 
 
   [![My Skills](https://skillicons.dev/icons?i=go,cs)](https://skillicons.dev)
